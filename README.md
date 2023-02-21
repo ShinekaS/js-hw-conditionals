@@ -1,33 +1,47 @@
-# JavaScript Conditionals Homework Exercises
+# JavaScript Conditionals Lab Exercises
 
-In this homework assignment, you are going practice the basics of JavaScript as a programming language by completing problems that will challenge you knowledge of core princples. 
+In this homework assignment, you are going to practice the basics of writing **conditional statements**, using JavaScript as a programming language, by completing problems that will challenge your knowledge of core princples. 
 
 ## Objectives 
 
 - if/else if/else statement syntax
-- condition expressions
-- comparison operators
-- combining conditions with logical operators
+- Condition expressions
+- Comparison operators
+- Combining conditions with logical operators
 
 
 ## Instructions 
 
-- Navigate to a location on your local computer in VSCode where you keep your homework 
-- Clone this repsository by tying the following command in your terminal 
+- **Fork** this repo to your account by cliking on the **fork** Button at the top of this page. 
 
-```bash 
-clone https://github.com/DigitalCraftsStudents/js-hw-101.git
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+
+*A **fork** is a copy of this repository. This forked repository will appear on your github account.*
+
+- Find the repository on *YOUR* account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page.
+
+![](./images/githubCodeButton.png)
+
+- Copy the path in the dialoge box
+- Navigate to a location on **your local computer in VSCode** where you keep your homework 
+- Clone this repsository by typing the following command in your terminal
+
+```
+clone [`path that you just copied`]
 ```
 
-- Navigate into the folder titled `js-hw-101`
+For example: 
 
+```bash 
+clone https://github.com/DigitalCraftsStudents/js-hw-conditionals.git
+```
 
-- Open the file called `js101.js` and solve the homework problems 
-
+- Navigate into the folder titled `js-hw-conditionals`
+- Open the file called `homework.js` and solve the lab problems 
 - To run a file javascript file using node, you can run it from your terminal like this:
 
 ```bash
-$ node js101.js
+$ node homework.js
 ```
 
 ## Problems 
