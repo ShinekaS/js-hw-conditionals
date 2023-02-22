@@ -74,6 +74,58 @@ Write a program that prompts the user for a letter and checks if it is uppercase
 Write a program that prompts the user for a temperature in Fahrenheit and converts it to Celsius.
 
 
+## Tip Calculator
+Your task is to write a program that calculates how much of a tip to leave at a restaurant.
+
+Prompt the user for two things:
+
+The total bill amount
+The level of service, which can be one of the following: good, fair, or bad
+Calculate the tip amount and the total amount (bill amount + tip amount). The tip percentage based on the level of service is based on:
+
+good -> 20%
+fair -> 15%
+bad -> 10%
+Example session:
+
+```bash
+$ node homework.js
+Total bill amount? 100
+Level of service? good
+Tip amount: $20.00
+Total amount: $120.00
+```
+
+```bash 
+$ node homework.js
+Total bill amount? 48
+Level of service? bad
+Tip amount: $4.80
+Total amount: $52.80
+```
+
+Hints:
+
+Remember that you need to convert the input from the user input to a number. 
+
+## Tip Calculator 2 
+
+Allow the ability to divide the check into a equal parts amount a number of people. The user will enter the number of people to be divided amongst. Example session: 
+
+```bash 
+$ node homework.js
+Total bill amount? 100
+Level of service? good
+Split how many ways? 5
+Tip amount: $20.00
+Total amount: $120.00
+Amount per person: $24.00
+
+```
+
+
+
+
 
 
 
