@@ -10,7 +10,7 @@ In this homework assignment, you are going to practice the basics of writing **c
 - Combining conditions with logical operators
 
 
-## Instructions 
+<!-- ## Instructions 
 
 - **Fork** this repo to your account by cliking on the **fork** Button at the top of this page. 
 
@@ -18,9 +18,9 @@ In this homework assignment, you are going to practice the basics of writing **c
 
 *A **fork** is a copy of this repository. This forked repository will appear on your github account.*
 
-- Find the repository on *YOUR* account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page.
+- Find the repository on *YOUR* account (ie yourUserName/js-lab-conditionals) and click on the green `Code` button at the top of the page. -->
 
-![](./images/githubCodeButton.png)
+<!-- ![](./images/githubCodeButton.png)
 
 - Copy the path in the dialoge box
 - Navigate to a location on **your local computer in VSCode** where you keep your homework 
@@ -42,7 +42,7 @@ clone https://github.com/DigitalCraftsStudents/js-hw-conditionals.git
 
 ```bash
 $ node homework.js
-```
+``` -->
 
 ## Problems 
 
